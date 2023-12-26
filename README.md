@@ -30,4 +30,19 @@ This React Native application brings the classic Rock-Paper-Scissors game to you
 
 Enjoy playing Rock-Paper-Scissors on your mobile device!
 
+## Screenshots of the Mobile App
+**Home Screen**
+   - The main screen where you choose your move.
+   <img src="./images/IMG_home.jpeg" alt="App Home Screenshot" width="150" height="300">
 
+**Victory Screen**
+   - Celebrate your victory!
+   <img src="./images/IMG_victory.jpg" alt="App Victory Screenshot" width="150" height="300">
+
+**Defeat Screen**
+   - Learn from defeat and try again.
+   <img src="./images/IMG_defeat.jpg" alt="App Defeat Screenshot" width="150" height="300">
+
+**Draw Screen**
+   - It's a draw! Test your skills again.
+   <img src="./images/IMG_draw.jpg" alt="App Draw Screenshot" width="150" height="300">
